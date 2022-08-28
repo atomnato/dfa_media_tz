@@ -1,0 +1,18 @@
+{
+  "@@locale": "ru",
+  "yourAccountant": "Ваш бухгалтер",
+  "notification": "Уведомления",
+  "news": "Новости",
+  "devTitle": "Функционал раздела “{value}” находится в разработке",
+  "@devTitle": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "format": "text"
+      }
+    }
+  },
+  "myCompany": "Мои компании",
+  "calendar": "Календарь",
+  "profile":"Профиль"
+}
