@@ -38,6 +38,7 @@ migrate_working_dir/
 lib/generated_plugin_registrant.dart
 
 # Project
+lib/common/resources/assets
 lib/common/resources/l10n/generated
 
 # Symbolication related

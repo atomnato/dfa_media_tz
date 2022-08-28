@@ -4,7 +4,7 @@ analyser:
   exclude:
     - "**/*.freezed.dart"
     - "**/*.g.dart"
-    - "lib/generated/**"
+    - "lib/common/resources/l10n/**"
 linter:
   rules:
     always_use_package_imports: true # ?
